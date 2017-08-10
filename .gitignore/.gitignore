@@ -73,3 +73,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ThirdPersonCover/Content/StarterContent/*
+.vs/*
+ThirdPersonCover/.vs/*
+Content/StarterContent/*
