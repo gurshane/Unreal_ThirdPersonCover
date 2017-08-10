@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ThirdPersonCover.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{B2FA9930-603E-443E-9431-781F00B7A4D6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ThirdPersonCover.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ThirdPersonCoverEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{18B1790B-B067-46AE-BE82-111CE4ADA22F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ThirdPersonCover">
+			<UniqueIdentifier>{D1FDDACC-076C-4AC3-AAC5-CDB4CE62E8EC}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\ThirdPersonCover\ActorStruct.cpp">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ThirdPersonCover\ActorStruct.h">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ThirdPersonCover\CoverVolume.cpp">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ThirdPersonCover\CoverVolume.h">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ThirdPersonCover\Structs.cpp">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ThirdPersonCover\Structs.h">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\ThirdPersonCover\ThirdPersonCover.Build.cs">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ThirdPersonCover\ThirdPersonCover.cpp">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ThirdPersonCover\ThirdPersonCover.h">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ThirdPersonCover\ThirdPersonCoverCharacter.cpp">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ThirdPersonCover\ThirdPersonCoverCharacter.h">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ThirdPersonCover\ThirdPersonCoverGameModeBase.cpp">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ThirdPersonCover\ThirdPersonCoverGameModeBase.h">
+			<Filter>Source\ThirdPersonCover</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

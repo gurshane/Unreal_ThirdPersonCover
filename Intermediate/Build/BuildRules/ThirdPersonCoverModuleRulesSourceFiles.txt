@@ -1,0 +1,3 @@
+C:\gsidhu\Unreal\ThirdPersonCover\ThirdPersonCover\Source\ThirdPersonCover\ThirdPersonCover.Build.cs
+C:\gsidhu\Unreal\ThirdPersonCover\ThirdPersonCover\Source\ThirdPersonCover.Target.cs
+C:\gsidhu\Unreal\ThirdPersonCover\ThirdPersonCover\Source\ThirdPersonCoverEditor.Target.cs
